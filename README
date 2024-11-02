@@ -1,0 +1,10 @@
+## Usage
+Add expenses, view summaries, and generate reports to understand spending habits.
+
+## Technologies Used
+- Python
+- Matplotlib (for visualizations)
+- CSV (for data storage)
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
