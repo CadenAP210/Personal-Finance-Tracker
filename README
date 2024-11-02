@@ -1,10 +1,25 @@
-## Usage
-Add expenses, view summaries, and generate reports to understand spending habits.
+# Personal Expense Tracker
+
+A simple Python application that allows users to input and categorize their daily expenses, view summaries, and track spending habits over time.
+
+## Features
+
+- **Input System**: Add expenses by category (e.g., Food, Transportation, Entertainment).
+- **Data Storage**: Store expenses in a CSV file for easy access and management.
+- **Summaries & Reports**: Summarize total expenses by category.
+- **Visualization**: Generate bar charts to visualize spending patterns using Matplotlib.
 
 ## Technologies Used
-- Python
-- Matplotlib (for visualizations)
-- CSV (for data storage)
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- **Python**: The programming language used to build the application.
+- **Matplotlib**: A library for data visualization.
+- **Pandas**: A library for data manipulation and analysis (used for summarizing expenses).
+- **CSV**: A file format used for storing expenses.
+
+## Installation
+
+1. Ensure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
+2. Install the required libraries using pip:
+
+   ```bash
+   pip install matplotlib pandas
